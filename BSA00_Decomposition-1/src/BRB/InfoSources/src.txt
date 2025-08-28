@@ -1,0 +1,24 @@
+Name of source: Выпускная квалификационная работа "МОБИЛЬНОЕ ПРИЛОЖЕНИЕ ДЛЯ СЕТИ ПАРИКМАХЕРСКИХ «БАРБЕРШОП»"
+Autor: студент группы № ИЭ-401п Российского государственного профессионально-педагогического университета А. О. Белоусов
+URL: https://elar.rsvpu.ru/bitstream/123456789/25391/1/RSVPU_2018_320.pdf
+Date: 2018
+
+Name of source: Книга "Бизнес-план. Открытие барбершопа."
+Autor: Дмитрий Сергеевич Красноводский
+URL: https://www.litres.ru/book/dmitriy-sergeevich-krasnovodskiy/biznes-plan-otkrytie-barbershopa-62702722/
+Date: 14 октября 2020
+
+Name of source: Blog "Программа для барберов"
+Autor: Евгения Мамонтова
+URL: https://easyweek.ru/programma-dlya-upravleniya-barbershopom.html
+Date: 12 окт. 2022
+
+Name of source: Доклад "Почему онлайн-запись так важна для салонов красоты"
+Autor: 1C:Салон красоты
+URL: https://salon1c.ru/blog/pochemu-onlajn-zapis-tak-vazhna-dlya-salonov-krasoty/
+Date: 24.08.2023
+
+Name of source: Доклад "Разрушители легенд:5 мифов об онлайн-записи в салонах красоты"
+Autor: 1С:Салон Красоты
+URL: https://salon1c.ru/blog/razrushiteli-legend-5-mifov-ob-onlajn-zapisi-v-salonah-krasoty/
+Date: 03.03.2021
